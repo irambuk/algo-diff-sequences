@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DiffSequencesAlgo", "DiffSequencesAlgo\DiffSequencesAlgo.csproj", "{92CF4F45-F5CD-42D1-9DD7-6B38CE526B30}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DiffSequencesAlgo.Tests", "DiffSequencesAlgoTests\DiffSequencesAlgo.Tests.csproj", "{581DD8ED-D1D3-42EA-81EE-4D2CD47A2FCA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92CF4F45-F5CD-42D1-9DD7-6B38CE526B30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92CF4F45-F5CD-42D1-9DD7-6B38CE526B30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92CF4F45-F5CD-42D1-9DD7-6B38CE526B30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92CF4F45-F5CD-42D1-9DD7-6B38CE526B30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{581DD8ED-D1D3-42EA-81EE-4D2CD47A2FCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{581DD8ED-D1D3-42EA-81EE-4D2CD47A2FCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{581DD8ED-D1D3-42EA-81EE-4D2CD47A2FCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{581DD8ED-D1D3-42EA-81EE-4D2CD47A2FCA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A674220E-E6AD-47EF-B881-9C182F4A31C4}
+	EndGlobalSection
+EndGlobal
